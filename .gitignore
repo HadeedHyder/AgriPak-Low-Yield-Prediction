@@ -1,0 +1,18 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+
+# Dataset and generated files (keep local unless permission is granted)
+data/crop_data.csv
+data/processed/
